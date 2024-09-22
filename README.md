@@ -27,15 +27,20 @@ HTML, CSS, JavaScript, API(Google Maps), VS Code, Git & GitHub, Chrome(Web brows
 ## Project Status
 This project is currently complete and is open for enhancements and suggestions.
 
-![image](https://github.com/user-attachments/assets/c42e2d10-b319-4668-aa2e-743ac90bf2f4)
+![image](https://github.com/user-attachments/assets/6eb0992d-3dfe-4c6d-9bc5-538f555101fd)
 
-![image](https://github.com/user-attachments/assets/6e7fcc34-1639-4a00-a8da-96123d5ea1a0)
+![image](https://github.com/user-attachments/assets/b107defc-3b0b-4fdd-8208-03d03166a8b9)
 
-![image](https://github.com/user-attachments/assets/d9d3a723-bba5-4c75-a5c1-fc276fbce3b5)
+![image](https://github.com/user-attachments/assets/f64c851e-2a59-453f-81fa-7db13e2869b0)
 
-![image](https://github.com/user-attachments/assets/53b5ae4a-6b79-4f1a-80e7-e4a62d9ab97b)
+![image](https://github.com/user-attachments/assets/b089cb67-816a-4bbb-87e2-cb751c201c9e)
 
-![image](https://github.com/user-attachments/assets/b571e07b-44ca-4ca7-bdf9-4a7b101789d0)
+![image](https://github.com/user-attachments/assets/a13a3fd8-08e8-4906-8071-d8fe97969abb)
+
+![image](https://github.com/user-attachments/assets/1569a580-0e62-4250-ac28-ea30ce09569b)
+
+![image](https://github.com/user-attachments/assets/1637ee7d-eeaa-4894-a3aa-731791f5c1e8)
+
 
 ## FAQ:
 Question: Can I use this project for my own coffee shop?
