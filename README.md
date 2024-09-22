@@ -39,9 +39,6 @@ This project is currently complete and is open for enhancements and suggestions.
 
 ![image](https://github.com/user-attachments/assets/1569a580-0e62-4250-ac28-ea30ce09569b)
 
-![image](https://github.com/user-attachments/assets/1637ee7d-eeaa-4894-a3aa-731791f5c1e8)
-
-
 ## FAQ:
 Question: Can I use this project for my own coffee shop?
 Answer: Yes, feel free to customize and use it as per your needs.
